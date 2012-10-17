@@ -10,7 +10,7 @@ http://lunavast.com/?pid=49854521
 https://github.com/Lunavast/Portabee/downloads
 
 - The Romscraj Extruder is the default extruder for the Portabee. To build one, refer here:
-https://github.com/Lunavast/romscraj-extruder
+https://github.com/Lunavast/lunavast-extruder
 
 Important notes if you are planning to build your own Portabee:
 - Most dimensions of holes and bearing holders are larger than actual. We use skeinforge with a slightly increased flow rate to give stronger parts (we enter a filament diameter value of 5-6% less than actual, or you can tweak packing density ratio as well to get the same result). We suggest printing out one of the parts, for example the 'x-carriage' part to check for fit (especially if you use a different slicing software, eg. Slic3r which has some hole compensation code in more recent versions which may give different results). Alternatively, the affected models may be modified - SketchUp .skp design files can be found in the 'SKP-files' folder.
